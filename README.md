@@ -1,8 +1,9 @@
-#Teste Caixa Branca
-#Conexão com Banco de Dados Hipotético - Exemplo Java
+# Teste Caixa Branca
+## Conexão com Banco de Dados Hipotético - Exemplo Java
+
 Este repositório contém um exemplo de código que demonstra como se conectar a um banco de dados hipotético utilizando Java. O código inclui uma classe chamada User com os seguintes métodos e variáveis:
 
-#Funcionalidades
+### Funcionalidades
 conectarBD(): Este método estabelece uma conexão com um banco de dados MySQL e retorna a conexão.
 
 verificarUsuario(String login, String senha): Este método verifica as credenciais do usuário no banco de dados e armazena o resultado em uma variável booleana chamada result e o nome do usuário em uma variável chamada nome.
